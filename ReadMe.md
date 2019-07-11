@@ -18,10 +18,12 @@ make
 ```
 
 ## Performance comparison
+
 solutions:
  - original: solution provided in QB repository
  - optimized: solution with optimized lambda function
  - custom solution with strong typization and memory layout
+
 test:
  - number of execution / size of the initial array
 
