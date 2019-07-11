@@ -18,19 +18,18 @@ make
 ```
 
 ## Performance comparison
-
-solutions:
- - original: solution provided in QB repository
- - optimized: solution with optimized lambda function
- - custom solution with strong typization and memory layout
-
-test: - number of execution / size of the initial array
-
 solution\test  | 1 / 1K    | 10 / 100K | 100 / 1M
 ---------------|-----------|-----------|----------
 original       | 7.59e-05  | 0.0076    | 0.7931 
 optimized      | 2.08e-05  | 0.0023    | 0.0233
 custom         | 1.37e-05  | 0.0016    | 0.0205
+
+solutions:
+ - original: solution provided in QB repository
+ - optimized: solution with optimized lambda function
+ - custom solution with strong typization and memory layout
+test:
+ - number of execution / size of the initial array
 
 ## Other considerations
 - collection and record type intended to be flexible and adjustable 
