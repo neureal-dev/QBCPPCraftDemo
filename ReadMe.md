@@ -6,8 +6,8 @@ project created as QB task, to avoid unnecessary github tracking
 
 ### windows:
 `cd build
-cmake ..
-devenv /build Release QBCPPCraftDemo.sln`
+`cmake ..
+`devenv /build Release QBCPPCraftDemo.sln
 
 ### linux:
 `cd build
