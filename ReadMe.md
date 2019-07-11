@@ -27,10 +27,10 @@ custom         | 1.37e-05  | 0.0016    | 0.0205
 solutions:
  - original: solution provided in QB repository
  - optimized: solution with optimized lambda function
- - custom solution with strong typization and memory layout
+ - custom solution with strong types and memory layout
 
 test:
- - number of execution / size of the initial array
+ - number of lookups / size of the initial array
 
 ## Other considerations
 - collection and record type intended to be flexible and adjustable 
