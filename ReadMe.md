@@ -24,8 +24,7 @@ solutions:
  - optimized: solution with optimized lambda function
  - custom solution with strong typization and memory layout
 
-test:
- - number of execution / size of the initial array
+test: - number of execution / size of the initial array
 
 solution\test  | 1 / 1K    | 10 / 100K | 100 / 1M
 ---------------|-----------|-----------|----------
