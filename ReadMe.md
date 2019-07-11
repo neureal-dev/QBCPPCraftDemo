@@ -5,14 +5,14 @@ project created as QB task, to avoid unnecessary github tracking
 ## Build Instructions
 
 ### windows:
-cd build
+`cd build
 cmake ..
-devenv /build Release QBCPPCraftDemo.sln
+devenv /build Release QBCPPCraftDemo.sln`
 
 ### linux:
-cd build
+`cd build
 cmake ..
-make
+make`
 
 ## Performance comparison
 
