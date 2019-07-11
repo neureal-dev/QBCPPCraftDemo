@@ -1,15 +1,15 @@
-#QBCPPCraftDemo
+# QBCPPCraftDemo
 
 project created as QB task, to avoid unnecessary github tracking
 
-##Build Instructions
+## Build Instructions
 
-###windows:
+### windows:
 cd build
 cmake ..
 devenv /build Release QBCPPCraftDemo.sln
 
-###linux:
+### linux:
 cd build
 cmake ..
 make
